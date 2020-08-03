@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Projeto Strapi com CKEditor e Graphql Plugin
